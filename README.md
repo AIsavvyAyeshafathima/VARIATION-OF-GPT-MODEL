@@ -36,6 +36,16 @@ At the lowest temperature, the model produces the most predictable and consisten
 
 In conclusion, lowering the temperature reduces the randomness of the text, making the output more deterministic and predictable. The higher temperature outputs show more creativity but can sometimes be less coherent. Depending on the application, different temperatures can be chosen to balance creativity and control in text generation.
 
+**REFERENCES**
+
+Foster, D. (2022). Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play (2nd ed.).
+Retrieved from https://github.com/davidADSP/Generative_Deep_Learning_2nd_Edition/blob/main/notebooks/09_transformer/gpt/gpt.ipynb
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. In Advances in Neural Information Processing Systems (Vol. 30). https://papers.nips.cc/paper/7181-attention-is-all-you-need
+
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., ... & Amodei, D. (2020). Language models are few-shot learners. arXiv preprint arXiv:2005.14165. https://arxiv.org/abs/2005.14165
+
+
 
 
 
