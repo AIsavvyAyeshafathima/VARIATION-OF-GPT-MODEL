@@ -1,4 +1,73 @@
 # VARIATION-OF-GPT-MODEL
+📘 Text Generation Using GPT Model — Temperature Variation (Educational Project)
+
+This project demonstrates how a GPT-style text generation model works and how the temperature parameter affects the creativity, randomness, and reliability of the generated text.
+
+It uses a sample dataset (wine reviews) to show how different temperature settings produce different styles of output.
+
+The goal of this repository is learning, not building a huge production-level AI model.
+
+⸻
+
+✨ What This Project Is About
+
+This notebook (gpt.ipynb) gives you a simple, clear introduction to:
+	•	What a GPT model is
+	•	How text generation works
+	•	What temperature means in AI text generation
+	•	How higher or lower temperatures change the style of output
+	•	How to run basic text-generation experiments
+
+The dataset used is winemag-data-130k-v2.json.zip, which contains wine reviews.
+This helps you see how a model generates text in a specific domain.
+
+⸻
+
+🧠 Key AI Terms Explained (Very Simple Language)
+
+1. GPT (Generative Pre-trained Transformer)
+
+A type of AI model that:
+	•	learns patterns from huge amounts of text
+	•	predicts the next word, one word at a time
+	•	creates human-like sentences
+
+GPT is a decoder-only Transformer, meaning it focuses on generating text rather than understanding it deeply.
+
+⸻
+
+2. Transformer Architecture
+
+A modern neural-network design that:
+	•	reads sequences (sentences)
+	•	understands relationships between words
+	•	works very efficiently for language tasks
+
+Transformers are the foundation for GPT, BERT, and many modern AI models.
+
+⸻
+
+3. Text Generation
+
+The model takes a prompt (starting text) and predicts words to continue it.
+Example:
+
+Prompt: “The wine tastes”
+Model Output: “rich, fruity, and balanced with soft tannins.”
+
+It does this one token at a time.
+
+⸻
+
+4. Token
+
+A small piece of text — can be:
+	•	a whole word
+	•	part of a word
+	•	punctuation
+	•	symbols
+
+GPT generates text token-by-token.
 
 # Assignment: Text Generation with GPT Model – Temperature Comparison
 
